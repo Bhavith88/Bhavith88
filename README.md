@@ -1,4 +1,3 @@
-## 👋 Hi, I’m @Bhavith88
 # 💫 About Me:
 🌱 I’m currently learning ReactJS and Cloud Computing and AWS<br>💬 Ask me about Machine Learning, Computer Vision and Object Detection<br>⚡ Fun fact : I love learning about different fictional universes and love to consume different forms of media
 
